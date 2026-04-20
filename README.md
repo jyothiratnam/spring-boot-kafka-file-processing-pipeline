@@ -80,13 +80,15 @@ kafka-file-processing/
 ### Start Kafka & ZooKeeper
 
 ```bash
-docker compose up -d
+docker-compose up -d
 ```
 
 ### Run Services
+```bash
 cd upload-service && mvn spring-boot:run  
 cd processing-service && mvn spring-boot:run  
 cd notification-service && mvn spring-boot:run  
+```
 
 ### Test API
 POST http://localhost:8080/files/upload
