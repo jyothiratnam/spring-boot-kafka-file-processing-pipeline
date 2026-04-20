@@ -29,6 +29,7 @@ Processing Service (8081)
 Kafka Topic: file_processed / file_failed  
 ↓  
 Notification Service (8082)  
+
 ---
 
 ## 📂 Project Structure
