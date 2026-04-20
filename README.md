@@ -33,14 +33,14 @@ Notification Service (8082)
 
 ## 📂 Project Structure
 
-kafka-file-processing/
-│
-├── upload-service/
-├── processing-service/
-├── notification-service/
-├── docker-compose.yml
-├── architecture.png
-└── README.md
+kafka-file-processing/  
+│  
+├── upload-service/  
+├── processing-service/  
+├── notification-service/  
+├── docker-compose.yml  
+├── architecture.png  
+└── README.md  
 
 ---
 
