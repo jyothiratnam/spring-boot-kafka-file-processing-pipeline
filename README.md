@@ -11,6 +11,12 @@
 Apache Kafka, Spring Boot Kafka, Kafka Producer Consumer, Event Driven Architecture, Microservices, File Processing Pipeline
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue"/>
+  <img src="https://img.shields.io/badge/SpringBoot-3.x-green"/>
+  <img src="https://img.shields.io/badge/Kafka-EventDriven-orange"/>
+  <img src="https://img.shields.io/badge/Docker-Enabled-blue"/>
+</p>
 
 ## 📖 Overview
 
