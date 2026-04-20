@@ -84,6 +84,37 @@ cd notification-service && mvn spring-boot:run
 
 ---
 
+## 📸 Screenshots
+
+### 📤 Upload Service (Producer)
+<p align="center">
+  <img src="upload-service-log.png" width="900"/>
+</p>
+
+---
+
+### ⚙️ Processing Service (Consumer + Producer)
+<p align="center">
+  <img src="processing-service.png" width="900"/>
+</p>
+
+---
+
+### 🔔 Notification Service (Consumer)
+<p align="center">
+  <img src="notification-service-log.png" width="900"/>
+</p>
+
+---
+
+### 🌐 API Testing (Postman)
+<p align="center">
+  <img src="postman.png" width="900"/>
+</p>
+
+### ⚙️ Processing Service (Consumer + Producer)
+Consumes messages from `file_uploaded`, processes file, and publishes to `file_processed` or `file_failed`
+
 ## 👨‍💻 Author
 
 Jyothi Ratnam
